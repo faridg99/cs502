@@ -78,7 +78,7 @@
 // const onlyNumbers = arr3.filter(item => typeof item === 'number');
 // console.log('Only numbers:', onlyNumbers)
 
-// const onlyTrueValues = arr3.filter(item => item === trye);
+// const onlyTrueValues = arr3.filter(item => item === true);
 // console.log('only trye values:', onlyTrueValues);               // error verir bu hisse
 
 // const onlyFalseValues = arr3.filter(item => item === false);
