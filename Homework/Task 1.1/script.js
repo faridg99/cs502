@@ -84,7 +84,7 @@
 // const onlyFalseValues = arr3.filter(item => item === false);
 // console.log('Only false values', onlyFalseValues);
 
-// const onlyStrings = arr3.filter(item => typeof item, 'string');
+// const onlyStrings = arr3.filter(item => typeof item, === 'string');
 // console.log('Only strings:', onlyStrings);
 
 
